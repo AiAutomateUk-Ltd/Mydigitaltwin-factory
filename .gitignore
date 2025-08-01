@@ -1,2 +1,3 @@
 node_modules/
 examples/twinit-auth-for-office/src/taskpane/TwinitConfig.js
+.env
